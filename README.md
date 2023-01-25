@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github repo](https://github.com/Nabster2010/ecommerce-product-page)
-- Live Site URL: [live site](https://fanciful-treacle-d8b800.netlify.app/)
+- Solution URL: [github repo](https://github.com/Nabster2010/frontend-mentor-calculator-app)
+- Live Site URL: [live site](https://63d162d876cab20b4509e7f3--genuine-jelly-467f25.netlify.app/)
 
 ### Built with
 
